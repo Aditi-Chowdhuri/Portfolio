@@ -37,7 +37,7 @@ function Header({ setActiveSection, activeSection }) {
             <a href="https://github.com/Aditi-Chowdhuri" target="_blank" rel="noreferrer"> GitHub</a>
           </p>
         </div>
-        <button className="download-button" onClick={() => window.open('resume.pdf', '_blank')}>
+        <button className="download-button" onClick={() => window.open('Resume.pdf', '_blank')}>
           Download Resume
         </button>
       </div>
